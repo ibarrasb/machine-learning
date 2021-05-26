@@ -1,4 +1,4 @@
-#Machine learning / Jupyter Notebook
+#Machine learning // Jupyter Notebook
 
 import math
 
